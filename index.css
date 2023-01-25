@@ -1,0 +1,71 @@
+body{
+    background-image:url("https://cdn.falauniversidades.com.br/wp-content/uploads/2018/03/fala-universidades-netflix-3.jpg");
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+    
+}
+header{
+   margin: 1vw 3vw;
+   display: flex;
+   justify-content:space-between;
+}
+h1{
+    padding-top: 7vw;
+    font-size: 5vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+h2{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+p{
+    padding-left: 35vw;  
+}
+.buttons{
+    display: flex;
+}
+.button {
+    background-color: red;
+    border: 1px solid black;
+    color: white;
+    padding: 1px 30px;
+    text-align: center;
+    font-size: 1vw;
+    margin: 1vw;
+    cursor: pointer;
+}
+.botao2 {
+    color: grey;
+    background-color: white;
+    padding: 1vw;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 1vw;
+    cursor: text;
+    margin-left: 30vw;
+    width: 40vw;
+}
+  .botao3 {
+    color: white;
+    background-color: red;
+    padding: 1vw;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 1vw;
+    cursor: pointer;
+    width: 10vw;
+}
+  #ImagemCentral{
+width: 5vw;
+}
